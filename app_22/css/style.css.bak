@@ -1,0 +1,47 @@
+<style>	 
+	body {
+  background-image: url('/app_22/img/fon_1.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+	</style>
+	  
+
+
+.container {
+    margin-top: 50px;
+    width: 50%!important;
+}
+# Для формы: цвет бэкграунда,цвет обводки, толщина и т.д
+form {
+    background-image: url('/app_22/img/fon_2.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+}
+#list --> id="list"
+#list {
+    width: 60%;
+    float: left; # Обтекание по правому краю
+    margin-right: 5%; # Отступ справа 
+}
+# Цвет заголовка
+h1 {
+    color: #d9d9d9;
+} 
+
+ul {
+    padding: 0 10px;
+}
+ul li {
+    padding: 10px 10px;
+    list-style: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    color: #d9d9d9;
+    background: #232324;
+}
